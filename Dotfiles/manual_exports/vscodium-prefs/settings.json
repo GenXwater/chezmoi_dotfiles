@@ -1,0 +1,11 @@
+{
+  "chat.disableAIFeatures": false,
+
+  "telemetry.telemetryLevel": "off",
+
+  "editor.fontFamily": "'Noto Sans', Cantarell,  'DejaVu Sans Mono', monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+
+  "window.zoomLevel": 0.3,
+}

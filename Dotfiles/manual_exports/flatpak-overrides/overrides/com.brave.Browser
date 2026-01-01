@@ -1,0 +1,22 @@
+[Context]
+shared=!ipc
+sockets=!pcsc;!x11
+devices=!all;dri
+features=!bluetooth
+filesystems=!xdg-desktop;!/run/.heim_org.h5l.kcm-socket;!/tmp;!~/.config/kioslaverc;!host-etc
+
+[System Bus Policy]
+org.freedesktop.Avahi=none
+org.freedesktop.UPower=none
+org.bluez=none
+
+[Session Bus Policy]
+org.kde.kwalletd5=none
+org.mate.ScreenSaver=none
+org.xfce.ScreenSaver=none
+org.gnome.Mutter.IdleMonitor.*=none
+org.freedesktop.ScreenSaver=none
+org.cinnamon.ScreenSaver=none
+org.freedesktop.secrets=none
+com.canonical.AppMenu.Registrar=none
+org.kde.kwalletd6=none

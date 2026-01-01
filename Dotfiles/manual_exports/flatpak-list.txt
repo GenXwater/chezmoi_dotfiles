@@ -1,0 +1,7 @@
+com.brave.Browser
+com.github.tchx84.Flatseal
+com.mattjakeman.ExtensionManager
+com.opera.Opera
+com.vscodium.codium
+md.obsidian.Obsidian
+org.mozilla.firefox

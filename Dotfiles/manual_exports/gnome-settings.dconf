@@ -1,0 +1,270 @@
+[Loupe]
+show-properties=false
+
+[Ptyxis]
+default-profile-uuid='d5401e3e46b9bbbbc7439e44694ee7cd'
+profile-uuids=['d5401e3e46b9bbbbc7439e44694ee7cd']
+window-size=(uint32 105, uint32 49)
+
+[Ptyxis/Profiles/d5401e3e46b9bbbbc7439e44694ee7cd]
+palette='Vs Code'
+
+[Showtime/State]
+is-maximized=false
+
+[Weather]
+locations=[<(uint32 2, <('Toulouse', 'LFBO', true, [(0.76154532446909495, 0.023852838928353343)], [(0.76096355386952774, 0.025016380127487883)])>)>]
+window-height=506
+window-maximized=false
+window-width=439
+
+[calculator]
+base=10
+button-mode='basic'
+source-units=['degree']
+target-units=['radian']
+unit-category='angle'
+window-maximized=false
+window-size=(360, 616)
+
+[control-center]
+last-panel='sharing'
+window-state=(980, 640, false)
+
+[desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus', '75e4f37f-dcee-49f2-b0ec-ad74bb138dc5', '6555977a-5943-4a95-b5dc-d5c2d941aea9']
+
+[desktop/app-folders/folders/6555977a-5943-4a95-b5dc-d5c2d941aea9]
+apps=['libreoffice-writer.desktop', 'libreoffice-calc.desktop', 'libreoffice-impress.desktop', 'libreoffice-draw.desktop']
+name='Bureautique'
+
+[desktop/app-folders/folders/75e4f37f-dcee-49f2-b0ec-ad74bb138dc5]
+apps=['com.mattjakeman.ExtensionManager.desktop', 'org.gnome.Extensions.desktop', 'org.gnome.tweaks.desktop', 'com.github.tchx84.Flatseal.desktop']
+name='Accessoires'
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/System]
+apps=['org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.freedesktop.GnomeAbrt.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Decibels.desktop', 'org.gnome.Connections.desktop', 'org.gnome.Papers.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+picture-uri='file:///home/louis/Images/BingWallpaper/20251229-JapanSwans_FR-FR9912215229_UHD.jpg'
+picture-uri-dark='file:///home/louis/Images/BingWallpaper/20251229-JapanSwans_FR-FR9912215229_UHD.jpg'
+
+[desktop/break-reminders/eyesight]
+play-sound=true
+
+[desktop/break-reminders/movement]
+duration-seconds=uint32 300
+interval-seconds=uint32 1800
+play-sound=true
+
+[desktop/input-sources]
+current=uint32 0
+sources=[('xkb', 'fr+azerty')]
+
+[desktop/interface]
+color-scheme='prefer-dark'
+document-font-name='Noto Sans 12'
+enable-hot-corners=true
+font-antialiasing='grayscale'
+font-name='Noto Sans 11'
+icon-theme='Adwaita'
+
+[desktop/notifications]
+application-children=['org-gnome-software', 'org-freedesktop-problems-applet', 'gnome-about-panel', 'org-gnome-nautilus', 'gnome-power-panel', 'org-gnome-showtime']
+
+[desktop/notifications/application/gnome-about-panel]
+application-id='gnome-about-panel.desktop'
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/org-freedesktop-problems-applet]
+application-id='org.freedesktop.problems.applet.desktop'
+
+[desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[desktop/notifications/application/org-gnome-showtime]
+application-id='org.gnome.Showtime.desktop'
+
+[desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[desktop/peripherals/keyboard]
+numlock-state=true
+
+[desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[desktop/privacy]
+report-technical-problems=false
+
+[desktop/search-providers]
+sort-order=['org.gnome.Settings.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.Nautilus.desktop']
+
+[desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+
+[evolution-data-server]
+migrated=true
+
+[login-screen]
+enable-fingerprint-authentication=true
+enable-smartcard-authentication=false
+
+[maps]
+last-viewed-location=[-9.1087214929605267, 77.527483472248036]
+map-type='MapsVectorSource'
+transportation-type='pedestrian'
+window-maximized=true
+window-size=[1014, 420]
+zoom-level=2
+
+[mutter]
+edge-tiling=true
+workspaces-only-on-primary=true
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+
+[nautilus/window-state]
+initial-size=(890, 550)
+initial-size-file-chooser=(890, 550)
+
+[papers]
+night-mode=false
+
+[papers/default]
+annot-color='yellow'
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+enable-spellchecking=true
+show-sidebar=true
+sizing-mode='automatic'
+window-height=1048
+
+[portal/filechooser/com.brave.Browser]
+last-folder-path='/home/louis/Documents'
+
+[portal/filechooser/com.opera.Opera]
+last-folder-path='/run/media/louis/FILMS'
+
+[portal/filechooser/md.obsidian.Obsidian]
+last-folder-path='/home/louis/Documents'
+
+[settings-daemon/plugins/housekeeping]
+donation-reminder-last-shown=int64 1766764572424877
+
+[shell]
+app-picker-layout=[{'org.fedoraproject.MediaWriter.desktop': <{'position': <0>}>, 'org.gnome.Contacts.desktop': <{'position': <1>}>, 'org.gnome.Weather.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'org.gnome.Maps.desktop': <{'position': <4>}>, '75e4f37f-dcee-49f2-b0ec-ad74bb138dc5': <{'position': <5>}>, 'org.gnome.Settings.desktop': <{'position': <6>}>, 'org.gnome.SimpleScan.desktop': <{'position': <7>}>, 'org.gnome.Boxes.desktop': <{'position': <8>}>, 'org.gnome.Showtime.desktop': <{'position': <9>}>, 'org.gnome.Snapshot.desktop': <{'position': <10>}>, 'org.gnome.Characters.desktop': <{'position': <11>}>, 'Utilities': <{'position': <12>}>, 'System': <{'position': <13>}>, 'org.gnome.Tour.desktop': <{'position': <14>}>, 'org.gnome.Yelp.desktop': <{'position': <15>}>, '6555977a-5943-4a95-b5dc-d5c2d941aea9': <{'position': <16>}>, 'org.gnome.Ptyxis.desktop': <{'position': <17>}>, 'org.mozilla.firefox.desktop': <{'position': <18>}>, 'com.brave.Browser.desktop': <{'position': <19>}>, 'com.opera.Opera.desktop': <{'position': <20>}>, 'com.vscodium.codium.desktop': <{'position': <21>}>, 'md.obsidian.Obsidian.desktop': <{'position': <22>}>}]
+disabled-extensions=['background-logo@fedorahosted.org', 'Vitals@CoreCoding.com']
+enabled-extensions=['blur-my-shell@aunetx', 'BingWallpaper@ineffable-gmail.com', 'appindicatorsupport@rgcjonas.gmail.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'rounded-window-corners@fxgn']
+favorite-apps=['com.brave.Browser.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Calculator.desktop']
+last-selected-power-profile='power-saver'
+welcome-dialog-last-shown-version='49.1'
+
+[shell/extensions/appindicator]
+icon-brightness=0.0
+icon-contrast=0.0
+icon-opacity=240
+icon-saturation=0.0
+icon-size=0
+
+[shell/extensions/bingwallpaper]
+bing-json="[{\"startdate\":\"20251219\",\"fullstartdate\":\"202512192300\",\"enddate\":\"20251220\",\"url\":\"/th?id=OHR.FetNav_FR-FR1160112574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.FetNav_FR-FR1160112574\",\"copyright\":\"Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)\",\"copyrightlink\":\"https://www.bing.com/search?q=F%C3%AAte+r%C3%A9unionnaise+de+la+libert%C3%A9&form=hpcapt&filters=HpDate%3a%2220251219_2300%22\",\"title\":\"L’hiver en majesté\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_FetNav%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"33246287eb9ed02a9d0968521e7767ad\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251220\",\"fullstartdate\":\"202512202300\",\"enddate\":\"20251221\",\"url\":\"/th?id=OHR.SwedenSolstice_FR-FR1371775798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.SwedenSolstice_FR-FR1371775798\",\"copyright\":\"Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=solstice+d%27hiver&form=hpcapt&filters=HpDate%3a%2220251220_2300%22\",\"title\":\"L’aube du renouveau\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"27b787764f7ac56dc3ef53f42eeabb40\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251221\",\"fullstartdate\":\"202512212300\",\"enddate\":\"20251222\",\"url\":\"/th?id=OHR.NutcrackerAnkara_FR-FR1757697936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.NutcrackerAnkara_FR-FR1757697936\",\"copyright\":\"« Casse-Noisette » interprété par l’Opéra et Ballet d’État turc à Ankara, Turquie (© Anadolu/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=casse-noisette&form=hpcapt&filters=HpDate%3a%2220251221_2300%22\",\"title\":\"Quand la neige se met à danser\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_NutcrackerAnkara%22&FORM=HPQUIZ\",\"wp\":false,\"hsh\":\"f54dfdfa47f8c15c407d9c4c30045e6b\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251222\",\"fullstartdate\":\"202512222300\",\"enddate\":\"20251223\",\"url\":\"/th?id=OHR.ReindeerFinland_FR-FR2344358270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.ReindeerFinland_FR-FR2344358270\",\"copyright\":\"Renne sous la neige, Laponie, Finlande (© Roberto Moiola/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=renne+animal&form=hpcapt&filters=HpDate%3a%2220251222_2300%22\",\"title\":\"À la recherche du Père Noël !\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251222_ReindeerFinland%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"f7dd6e845928b9d6b5c90de75db2145c\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251223\",\"fullstartdate\":\"202512232300\",\"enddate\":\"20251224\",\"url\":\"/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.ElmauChapel_FR-FR3119291708\",\"copyright\":\"Chapelle avec sapin de Noël dans les Alpes bavaroises, Allemagne (© mauritius images GmbH/Alamy)\",\"copyrightlink\":\"https://www.bing.com/search?q=r%C3%A9veillon+de+no%C3%ABl&form=hpcapt&filters=HpDate%3a%2220251223_2300%22\",\"title\":\"Une nuit magique nous attend !\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"e9696208bc8f8d7e8d2c9a39a113c522\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251224\",\"fullstartdate\":\"202512242300\",\"enddate\":\"20251225\",\"url\":\"/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.SantaGlobe_FR-FR4387473652\",\"copyright\":\"Boules à neige sur un marché de Noël à Heidelberg, Allemagne (© George Pachantouris/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=jour+de+No%C3%ABl&form=hpcapt&filters=HpDate%3a%2220251224_2300%22\",\"title\":\"L’esprit de Noël, en miniature\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"4032ba1e40048ca90132b93e2f146268\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251225\",\"fullstartdate\":\"202512252300\",\"enddate\":\"20251226\",\"url\":\"/th?id=OHR.NuukGreenland_FR-FR4321343444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.NuukGreenland_FR-FR4321343444\",\"copyright\":\"Nuuk, Groenland (© nevereverro/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=Nuuk+Groenland&form=hpcapt&filters=HpDate%3a%2220251225_2300%22\",\"title\":\"Cap sur l’Arctique\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_NuukGreenland%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"04b00ef0506ebf56a6dbf506fa357d8f\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251226\",\"fullstartdate\":\"202512262300\",\"enddate\":\"20251227\",\"url\":\"/th?id=OHR.SuperiorIceMN_FR-FR4676327003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.SuperiorIceMN_FR-FR4676327003\",\"copyright\":\"Plaques de glace sur le lac Supérieur, Minnesota, États-Unis (© wanderluster/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=Lac+Sup%C3%A9rieur+%C3%89tats+Unis&form=hpcapt&filters=HpDate%3a%2220251226_2300%22\",\"title\":\"Une immensité argentée sans pareille\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_SuperiorIceMN%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"cff7d4433a92eb3993b0aa1e316804ac\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251227\",\"fullstartdate\":\"202512272300\",\"enddate\":\"20251228\",\"url\":\"/th?id=OHR.RuffedLemur_FR-FR5360368107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.RuffedLemur_FR-FR5360368107\",\"copyright\":\"Lémurien Vari noir et blanc de Madagascar (© Cyrielle Beaubois/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=L%C3%A9murien+Vari+noir+blanc+Madagascar&form=hpcapt&filters=HpDate%3a%2220251227_2300%22\",\"title\":\"L’adorable et menacé cousin du singe\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"a9eec7341537db1429f17afa2e131f1f\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251228\",\"fullstartdate\":\"202512282300\",\"enddate\":\"20251229\",\"url\":\"/th?id=OHR.AniTurkey_FR-FR6681755589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.AniTurkey_FR-FR6681755589\",\"copyright\":\"Église Saint-Grégoire à Ani, Kars, Turquie (© Kenan Talas/Getty Images)\",\"copyrightlink\":\"https://www.bing.com/search?q=ruines+Ani+Turquie&form=hpcapt&filters=HpDate%3a%2220251228_2300%22\",\"title\":\"La ville aux mille et une églises\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"9402fc9fc3f4f314020b52b6f09531b7\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":3840,\"height\":2160},{\"startdate\":\"20251229\",\"fullstartdate\":\"202512292300\",\"enddate\":\"20251230\",\"url\":\"/th?id=OHR.JapanSwans_FR-FR9912215229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp\",\"urlbase\":\"/th?id=OHR.JapanSwans_FR-FR9912215229\",\"copyright\":\"Cygnes chanteurs, Kotoku, Japon (© Martin Bailey/Shutterstock)\",\"copyrightlink\":\"https://www.bing.com/search?q=Cygnes+chanteurs&form=hpcapt&filters=HpDate%3a%2220251229_2300%22\",\"title\":\"Envol mélodieux vers le Japon\",\"quiz\":\"/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ\",\"wp\":true,\"hsh\":\"bb05a2adcb4b3d83eae82c29bbf5e7bd\",\"drk\":1,\"top\":1,\"bot\":1,\"hs\":[],\"width\":0,\"height\":0}]"
+download-folder='~/Images/BingWallpaper/'
+hide=true
+icon-name='bing-symbolic'
+notify=false
+selected-image='JapanSwans_FR-FR9912215229'
+state='{"maxlongdate":202512292300,"title":"Cygnes chanteurs, Kotoku, Japon","explanation":"Le fond d’écran Bing du jour pour 2025-12-29","copyright":"© Martin Bailey/Shutterstock","longstartdate":"202512292300","imageinfolink":"https://www.bing.com/search?q=Cygnes+chanteurs&form=hpcapt&filters=HpDate%3a%2220251229_2300%22","imageURL":"https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229_UHD.jpg&qlt=100","filename":"/home/louis/Images/BingWallpaper/20251229-JapanSwans_FR-FR9912215229_UHD.jpg","favourite":false,"width":3840,"height":2160,"shuffledue":0}'
+
+[shell/extensions/blur-my-shell]
+pipelines={'pipeline_default': {'name': <'Default'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000000'>, 'params': <{'radius': <30>, 'brightness': <0.5>}>}>]>}, 'pipeline_default_rounded': {'name': <'Default rounded'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000001'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>, 'unscaled_radius': <20>}>}>, <{'type': <'corner'>, 'id': <'effect_000000000002'>, 'params': <{'radius': <24>}>}>]>}}
+settings-version=2
+
+[shell/extensions/blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[shell/extensions/blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+override-background=true
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[shell/extensions/blur-my-shell/dash-to-panel]
+blur-original-panel=false
+
+[shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/panel]
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+
+[shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[shell/extensions/rounded-window-corners-reborn]
+border-width=0
+global-rounded-corner-settings={'padding': <{'left': uint32 1, 'right': 1, 'top': 1, 'bottom': 1}>, 'keepRoundedCorners': <{'maximized': false, 'fullscreen': false}>, 'borderRadius': <uint32 14>, 'smoothing': <0.0>, 'borderColor': <(0.5, 0.5, 0.5, 1.0)>, 'enabled': <true>}
+settings-version=uint32 7
+
+[shell/extensions/vitals]
+icon-style=1
+position-in-panel=0
+show-processor=true
+
+[shell/weather]
+automatic-location=true
+locations=[<(uint32 2, <('Toulouse', 'LFBO', true, [(0.76154532446909495, 0.023852838928353343)], [(0.76096355386952774, 0.025016380127487883)])>)>]
+
+[shell/world-clocks]
+locations=@av []
+
+[software]
+check-timestamp=int64 1767089358
+first-run=false
+flatpak-purge-timestamp=int64 1767096472
+install-timestamp=int64 1767008524
+packagekit-historical-updates-timestamp=uint64 1767008524
+
+[system/location]
+enabled=false
+
+[tweaks]
+show-extensions-notice=false

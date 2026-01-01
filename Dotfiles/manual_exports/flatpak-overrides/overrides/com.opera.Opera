@@ -1,0 +1,8 @@
+[Context]
+shared=!ipc
+sockets=!cups;!x11
+devices=!all
+filesystems=!~/.local/share/icons;!~/.config/kioslaverc;!~/.local/share/applications
+
+[Session Bus Policy]
+org.freedesktop.Notifications=none
